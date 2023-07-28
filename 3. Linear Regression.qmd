@@ -1,0 +1,5 @@
+---
+format: html_document
+---
+
+# Introducción a la regresión lineal
